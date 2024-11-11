@@ -1,1 +1,2 @@
 console.log("second file")
+console.log("the second row in the second file")
